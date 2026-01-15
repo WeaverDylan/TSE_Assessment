@@ -13,7 +13,9 @@ So we know best how to handle missing dates, is it acceptable for records with m
 I know this is time-sensitive, so I’m happy to stay on this with you until it’s resolved.
 
 Best regards,
+
 Dylan Weaver
+
 Technical Support
 
 
@@ -32,5 +34,7 @@ You don’t need to be a programmer to get this working and I'd be happy to help
 Looking forward to helping you streamline this.
 
 Best regards,
+
 Dylan Weaver
+
 Technical Support
